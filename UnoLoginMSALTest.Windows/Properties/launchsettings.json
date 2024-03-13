@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"UnoLoginMSALTest.Windows (Unpackaged)": {
+			"commandName": "Project"
+		},
+		"UnoLoginMSALTest.Windows (Package)": {
+			"commandName": "MsixPackage"
+		}
+	}
+}

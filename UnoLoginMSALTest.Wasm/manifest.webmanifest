@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "UnoLoginMSALTest",
+  "display": "standalone",
+  "name": "UnoLoginMSALTest",
+  "short_name": "UnoLoginMSALTest",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
